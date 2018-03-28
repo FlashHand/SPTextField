@@ -16,6 +16,7 @@
 		FE2BFDAF206B6E350074E933 /* SPTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = FE2BFDAE206B6E350074E933 /* SPTextField.m */; };
 		FE2BFDB1206B81280074E933 /* SPTextField.podspec in Resources */ = {isa = PBXBuildFile; fileRef = FE2BFDB0206B81280074E933 /* SPTextField.podspec */; };
 		FE2BFDB3206B82C40074E933 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = FE2BFDB2206B82C40074E933 /* LICENSE */; };
+		FE2BFDB5206B84250074E933 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FE2BFDB4206B84250074E933 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		FE2BFDAE206B6E350074E933 /* SPTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPTextField.m; sourceTree = "<group>"; };
 		FE2BFDB0206B81280074E933 /* SPTextField.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = SPTextField.podspec; path = ../SPTextField.podspec; sourceTree = "<group>"; };
 		FE2BFDB2206B82C40074E933 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		FE2BFDB4206B84250074E933 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +51,7 @@
 		FE2BFD8A206B6E2B0074E933 = {
 			isa = PBXGroup;
 			children = (
+				FE2BFDB4206B84250074E933 /* README.md */,
 				FE2BFDB2206B82C40074E933 /* LICENSE */,
 				FE2BFDB0206B81280074E933 /* SPTextField.podspec */,
 				FE2BFD95206B6E2B0074E933 /* SPTextFieldDemo */,
@@ -149,6 +152,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE2BFDB5206B84250074E933 /* README.md in Resources */,
 				FE2BFDA3206B6E2B0074E933 /* LaunchScreen.storyboard in Resources */,
 				FE2BFDA0206B6E2B0074E933 /* Assets.xcassets in Resources */,
 				FE2BFD9E206B6E2B0074E933 /* Main.storyboard in Resources */,
