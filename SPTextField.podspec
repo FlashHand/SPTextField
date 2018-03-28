@@ -11,7 +11,7 @@ s.homepage     = "http://flashhand.github.io"
 s.license      = { :type => "MIT", :file => "LICENSE" }
 s.platform = :ios
 s.ios.deployment_target = "7.0"
-s.source = { :git => "https://github.com/FlashHand/SPTextField.git", :tag => "v0.2" }
+s.source = { :git => "https://github.com/FlashHand/SPTextField.git", :tag => "v0.3" }
 s.public_header_files = "SPTextField/*.h","SPTextField/**/*.h"
 s.source_files = "SPTextField/**/*.{h,m}"
 s.ios.frameworks   = "Foundation","UIKit"
